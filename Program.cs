@@ -18,5 +18,11 @@ namespace HelloWorld
     }
 }
 
-/* OUTPUT: 
+/*OUTPUT:
+
+    What is your name?
+    (Input: Aishani)
+
+    Hello, Aishani, on 9/22/2020 at 6:16 PM!
     
+*/
