@@ -1,4 +1,6 @@
-﻿using System;
+/*Interacting with the User*/
+
+using System;
 
 namespace HelloWorld
 {
@@ -15,3 +17,6 @@ namespace HelloWorld
         }
     }
 }
+
+/* OUTPUT: 
+    
