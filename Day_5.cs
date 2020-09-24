@@ -1,6 +1,6 @@
 // This code example demonstrates the Console.WriteLine() method.
 // Formatting for this example uses the "en-US" culture.
-
+//Getting to know Console.Write Line method 
 using System;
 class Sample
 {
